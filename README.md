@@ -1,7 +1,7 @@
 # Sobre o projeto
 
 Baseado em Laravel 8 e VueJs, foi feito usando os recursos do laravel de desacoplamento do front com o laravel ui.
-Embora utilize o blade para exibir o front, os dados são servidos e consumidos como uma api independente do front e podendo ser consumida por outros clientes incluindo o insomna e o postman no endereço ```0.0.0.0:3000/api/vehicles```
+Embora utilize o blade para exibir o front, os dados são servidos e consumidos como uma api independente do front e podendo ser consumida por outros clientes incluindo o insomna e o postman no endereço ```0.0.0.0:3000/api/vehicle```
 No front foram criados apenas 2 components para ilustrar o uso do single file components e axios para consumir a api.
 
 # Requisitos
